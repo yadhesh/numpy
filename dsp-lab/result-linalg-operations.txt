@@ -1,0 +1,40 @@
+Enter matrix 1.0 [[123,123],[213,123]]
+Enter matrix 2.0 [[1232,123],[-23,-213]]
+Add matrices
+[[1355  246]
+ [ 190  -90]]
+Matrices subtraction
+[[-1109     0]
+ [  236   336]]
+Matrices divide
+[[  0   1]
+ [-10  -1]]
+Matrices Cross Product
+[[151536  15129]
+ [ -4899 -26199]]
+Matrices Dot Product
+[[148707 -11070]
+ [259587      0]]
+Square root of all elements
+[[11.09053651 11.09053651]
+ [14.59451952 11.09053651]]
+Sum of all elements
+1119
+Transpose of a Matrix
+[[123 213]
+ [123 123]]
+Det of Matrix
+-11070.0
+Inverse of the Matrix
+[[-0.01111111  0.01111111]
+ [ 0.01924119 -0.01111111]]
+Rank of Matrix
+2
+Power of Matrix
+[[11528298  8805078]
+ [15247818 11528298]]
+Eigen values of a Matrix
+[284.86105152 -38.86105152]
+Trace of a Matrix
+246
+
